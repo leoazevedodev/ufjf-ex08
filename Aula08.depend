@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1685668449 source:c:\users\leona\documents\ufjf\ed\ex08 - lista duplamente encadeada\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
+1685666426 c:\users\leona\documents\ufjf\ed\ex08 - lista duplamente encadeada\listadupla.h
+	"NoDuplo.h"
+
+1526870650 c:\users\leona\documents\ufjf\ed\ex08 - lista duplamente encadeada\noduplo.h
+
+1685667186 source:c:\users\leona\documents\ufjf\ed\ex08 - lista duplamente encadeada\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaDupla.h"
+
